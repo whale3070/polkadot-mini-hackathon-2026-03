@@ -1,0 +1,15 @@
+# Compiler output
+cache/
+out/
+broadcast/
+
+# Environment
+.env
+
+# Dependencies (managed by forge install)
+lib/
+
+# Claude
+claude.md
+skills-lock.json
+.claude/
